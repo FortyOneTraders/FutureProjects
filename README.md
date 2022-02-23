@@ -7,3 +7,4 @@
 * High frequency trading on a low speed market simulator
 * Building a trading platform
 * Advanced/interactive financial reports
+* Customer Attrition Contest to see who can make the best optimization for displaying trade data to donors
